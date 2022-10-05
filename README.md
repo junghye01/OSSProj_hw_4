@@ -2,4 +2,6 @@
 
 Hello world!
 
-fetch & merge
+fetch
+
+& merge
