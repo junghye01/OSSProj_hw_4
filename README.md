@@ -3,6 +3,3 @@
 Hello world!
 
 fetch & merge
-A
-B
-C
